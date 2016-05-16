@@ -1,0 +1,1686 @@
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+222.66.175.172 - - [15/May/2016 09:03:41] "GET /api.chinacloudapp.cn/vvv?id1=111&id2=115 HTTP/1.1" 200 -
+222.66.175.172 - - [15/May/2016 09:03:41] "GET /favicon.ico HTTP/1.1" 404 -
+222.66.175.220 - - [15/May/2016 09:05:01] "GET /api.chinacloudapp.cn/vvv?id=111,id2=112 HTTP/1.1" 500 -
+222.66.175.220 - - [15/May/2016 09:05:01] "GET /favicon.ico HTTP/1.1" 404 -
+222.66.175.220 - - [15/May/2016 09:05:01] "GET /favicon.ico HTTP/1.1" 404 -
+222.66.175.220 - - [15/May/2016 09:05:07] "GET /api.chinacloudapp.cn/vvv?id=111&id2=112 HTTP/1.1" 500 -
+139.217.22.12 - - [15/May/2016 09:10:42] "GET /api.chinacloudapp.cn/vvv?id2=2180737804&id1=2251253715 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:10:42] "GET /api.chinacloudapp.cn/vvv?id2=189831743&id1=2147152072 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:10:42] "GET /api.chinacloudapp.cn/vvv?id2=2310280492&id1=2332023333 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:10:43] "GET /api.chinacloudapp.cn/vvv?id2=57898110&id1=2332023333 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:10:43] "GET /api.chinacloudapp.cn/vvv?id2=2014261844&id1=57898110 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:13:07] "GET /api.chinacloudapp.cn/vvv?id2=2180737804&id1=2251253715 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:13:07] "GET /api.chinacloudapp.cn/vvv?id2=189831743&id1=2147152072 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:13:07] "GET /api.chinacloudapp.cn/vvv?id2=2310280492&id1=2332023333 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:13:08] "GET /api.chinacloudapp.cn/vvv?id2=57898110&id1=2332023333 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:13:08] "GET /api.chinacloudapp.cn/vvv?id2=2014261844&id1=57898110 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:13:09] "GET /api.chinacloudapp.cn/vvv?id2=2180737804&id1=2251253715 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:13:09] "GET /api.chinacloudapp.cn/vvv?id2=189831743&id1=2147152072 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:13:09] "GET /api.chinacloudapp.cn/vvv?id2=2310280492&id1=2332023333 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:13:10] "GET /api.chinacloudapp.cn/vvv?id2=57898110&id1=2332023333 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:13:10] "GET /api.chinacloudapp.cn/vvv?id2=2014261844&id1=57898110 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:14:25] "GET /api.chinacloudapp.cn/vvv?id2=2180737804&id1=2251253715 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:14:25] "GET /api.chinacloudapp.cn/vvv?id2=189831743&id1=2147152072 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:14:25] "GET /api.chinacloudapp.cn/vvv?id2=2310280492&id1=2332023333 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:14:25] "GET /api.chinacloudapp.cn/vvv?id2=57898110&id1=2332023333 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:14:26] "GET /api.chinacloudapp.cn/vvv?id2=2014261844&id1=57898110 HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+222.66.175.240 - - [15/May/2016 09:19:23] "GET /semifinal?id1=111&id2=111 HTTP/1.1" 200 -
+122.224.153.106 - - [15/May/2016 09:21:57] "GET / HTTP/1.0" 404 -
+139.217.22.12 - - [15/May/2016 09:28:30] "GET /semifinal?id2=2180737804&id1=2251253715 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:28:30] "GET /semifinal?id2=189831743&id1=2147152072 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:28:30] "GET /semifinal?id2=2310280492&id1=2332023333 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:28:30] "GET /semifinal?id2=57898110&id1=2332023333 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:28:30] "GET /semifinal?id2=2014261844&id1=57898110 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:28:33] "GET /semifinal?id2=2180737804&id1=2251253715 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:28:33] "GET /semifinal?id2=189831743&id1=2147152072 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:28:33] "GET /semifinal?id2=2310280492&id1=2332023333 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:28:33] "GET /semifinal?id2=57898110&id1=2332023333 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:28:33] "GET /semifinal?id2=2014261844&id1=57898110 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:28:33] "GET /semifinal?id2=2180737804&id1=2251253715 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:28:33] "GET /semifinal?id2=189831743&id1=2147152072 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:28:33] "GET /semifinal?id2=2310280492&id1=2332023333 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:28:34] "GET /semifinal?id2=57898110&id1=2332023333 HTTP/1.1" 200 -
+139.217.22.12 - - [15/May/2016 09:28:34] "GET /semifinal?id2=2014261844&id1=57898110 HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+222.66.175.240 - - [15/May/2016 09:51:25] "GET /semifinal?id1=111&id2=111 HTTP/1.1" 200 -
+169.229.3.91 - - [15/May/2016 09:55:00] code 400, message Bad request syntax ('\x89\xbe\xb6\xa6\x94\x82\xaa7\xa0\x1dw\xefvAIY7!\x95\x92\xc5\xd0\xea\xe5\x11\x05\xd5\x1f\xb6\xc5xX}mM\x13\x8d_\x91\xcb\x1f\xc6\x87\x8b!\xf3K\xa35\x8aJr\xfd\xa8\x02\xbe\x1e\xf6\x1e\xa5{m7\xd8')
+169.229.3.91 - - [15/May/2016 09:55:00] "‰¾¶¦”‚ª7 wïvAIY7!•’ÅÐêåÕ¶ÅxX}mM_‘ËÆ‡‹!óK£5ŠJrý¨¾ö¥{m7Ø" 400 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+222.66.175.240 - - [15/May/2016 09:55:48] "GET /semifinal?id1=111&id2=111 HTTP/1.1" 200 -
+80.82.78.38 - - [15/May/2016 09:58:00] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 404 -
+222.66.175.240 - - [15/May/2016 10:03:13] "GET /semifinal?id1=111&id2=111 HTTP/1.1" 200 -
+141.212.122.161 - - [15/May/2016 10:39:50] "GET / HTTP/1.1" 404 -
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+111 111
+1
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+111 111
+1
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_222.66.175.240 - - [15/May/2016 11:43:02] "GET /semifinal?id1=111&id2=111 HTTP/1.1" 200 -
+222.66.175.240 - - [15/May/2016 11:43:03] "GET /favicon.ico HTTP/1.1" 404 -
+beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+111 111
+1
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+115.230.124.164 - - [15/May/2016 13:50:39] "GET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7924331613508302 HTTP/1.1" 404 -
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+hear80.82.78.38 - - [15/May/2016 14:02:45] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 404 -
+139.217.26.105 - - [15/May/2016 14:21:20] "GET /semifinal?id2=2157348764&id1=2157823046 HTTP/1.1" 200 -
+122.224.153.106 - - [15/May/2016 14:29:16] "GET / HTTP/1.0" 404 -
+139.217.26.105 - - [15/May/2016 15:13:17] "GET /semifinal?id2=2244066162&id1=2168326394 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 15:13:21] "GET /semifinal?id2=2138155367&id1=2002995168 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 15:13:42] "GET /semifinal?id2=2106882534&id1=1977891194 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 15:13:59] "GET /semifinal?id2=2165010366&id1=2232665276 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 15:13:59] "GET /semifinal?id2=2001725958&id1=2058401000 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 15:14:00] "GET /semifinal?id2=706057080&id1=2162324627 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 15:14:14] "GET /semifinal?id2=2159296038&id1=1904226804 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 15:14:15] "GET /semifinal?id2=2140501627&id1=1998641738 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 15:14:15] "GET /semifinal?id2=2100254283&id1=2014643663 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 15:14:16] "GET /semifinal?id2=2125785472&id1=2054064167 HTTP/1.1" 200 -
+118.193.27.2 - - [15/May/2016 15:39:36] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x01"\x01\x00\x01\x1e\x03\x03\xb9\x8e\x05\x0f\xbc\xb4SafpJ\xbf_X\xf5\x91qnC\xaf\xdeh\x8d')
+118.193.27.2 - - [15/May/2016 15:39:36] "" ¹Ž¼´SafpJ¿_Xõ‘qnC¯Þh»Âå™¶S  ˆÀ0À,À(À$ÀÀ" 400 -
+118.193.27.2 - - [15/May/2016 15:39:42] code 400, message Bad request syntax ('USER test +iw test :Test Wuz Here')
+118.193.27.2 - - [15/May/2016 15:39:42] "USER test +iw test :Test Wuz Here" 400 -
+118.193.27.2 - - [15/May/2016 15:39:42] "GET / HTTP/1.1" 404 -
+172.82.166.210 - - [15/May/2016 15:51:23] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 404 -
+115.230.124.164 - - [15/May/2016 16:20:37] "GET http://zc.qq.com/cgi-bin/common/attr?id=260714&r=0.7982656888891455 HTTP/1.1" 404 -
+139.217.26.105 - - [15/May/2016 17:15:53] "GET /semifinal?id2=2244066162&id1=2243598352 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:16:23] "GET /semifinal?id2=2146092834&id1=2144804137 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:16:32] "GET /semifinal?id2=2158553737&id1=2131203610 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:16:34] "GET /semifinal?id2=2036681013&id1=2093714155 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:16:45] "GET /semifinal?id2=2001725958&id1=1877272218 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:16:48] "GET /semifinal?id2=1978784284&id1=2097341408 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:16:52] "GET /semifinal?id2=2251992767&id1=2157348764 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:16:56] "GET /semifinal?id2=2161633633&id1=2054749214 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:16:58] "GET /semifinal?id2=1664523425&id1=2166990755 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:17:06] "GET /semifinal?id2=2067218961&id1=1586699954 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:17:08] "GET /semifinal?id2=2109252993&id1=2153440608 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:17:20] "GET /semifinal?id2=2015918699&id1=1998209869 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:17:54] "GET /semifinal?id2=2054064167&id1=2144804137 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:17:55] "GET /semifinal?id2=2106882534&id1=2118826874 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:17:57] "GET /semifinal?id2=1977606739&id1=2157138196 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:17:59] "GET /semifinal?id2=2067218961&id1=2132551021 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:18:48] "GET /semifinal?id2=2015918699&id1=2080932746 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:18:59] "GET /semifinal?id2=2162010601&id1=2001725958 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:19:04] "GET /semifinal?id2=2117692326&id1=1992419399 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:19:37] "GET /semifinal?id2=2157823046&id1=2168326394 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:19:45] "GET /semifinal?id2=2043103956&id1=2146654601 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:19:49] "GET /semifinal?id2=2244066162&id1=1912234910 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:19:51] "GET /semifinal?id2=1943535906&id1=2053379248 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:19:54] "GET /semifinal?id2=2012154384&id1=2116146623 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:19:55] "GET /semifinal?id2=2144804137&id1=2103017472 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:19:57] "GET /semifinal?id2=2170060062&id1=2002995168 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:19:58] "GET /semifinal?id2=2058277658&id1=2144634347 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:19:58] "GET /semifinal?id2=2015918699&id1=2118826874 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:20:01] "GET /semifinal?id2=2067218961&id1=2120627772 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:20:05] "GET /semifinal?id2=2157138196&id1=2316376271 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:20:06] "GET /semifinal?id2=1664523425&id1=1963999340 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:20:08] "GET /semifinal?id2=1996452786&id1=2251992767 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:20:09] "GET /semifinal?id2=2109252993&id1=2054064167 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:20:17] "GET /semifinal?id2=2166990755&id1=1586699954 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:20:17] "GET /semifinal?id2=2023687307&id1=2157823046 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:20:19] "GET /semifinal?id2=1937107987&id1=2157138196 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:20:19] "GET /semifinal?id2=2118826874&id1=2159061031 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:20:21] "GET /semifinal?id2=2168326394&id1=2012360991 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:20:24] "GET /semifinal?id2=2116067072&id1=2129871334 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 17:20:25] "GET /semifinal?id2=2151911999&id1=2008813448 HTTP/1.1" 200 -
+80.82.78.38 - - [15/May/2016 18:01:32] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 404 -
+122.224.153.106 - - [15/May/2016 18:24:27] "GET / HTTP/1.0" 404 -
+123.151.42.61 - - [15/May/2016 19:14:44] "GET http://www.baidu.com/ HTTP/1.1" 404 -
+139.217.26.105 - - [15/May/2016 19:52:25] "GET /semifinal?id2=2157348764&id1=2159881136 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:52:26] "GET /semifinal?id2=1573363574&id1=2016511885 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:52:26] "GET /semifinal?id2=2071666535&id1=2155496693 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:52:29] "GET /semifinal?id2=2251992767&id1=2054064167 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:52:31] "GET /semifinal?id2=2166226934&id1=2144634347 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:52:33] "GET /semifinal?id2=2149472920&id1=1963999340 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:53:27] "GET /semifinal?id2=2103017472&id1=1996452786 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:53:57] "GET /semifinal?id2=2118826874&id1=2157138196 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:54:01] "GET /semifinal?id2=679456835&id1=2109363337 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:54:02] "GET /semifinal?id2=2120627772&id1=1775749144 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:54:05] "GET /semifinal?id2=2109252993&id1=2264929133 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:54:08] "GET /semifinal?id2=1995744610&id1=2120627772 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:54:10] "GET /semifinal?id2=1943535906&id1=1874266680 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:54:11] "GET /semifinal?id2=1904226804&id1=2161633633 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:54:12] "GET /semifinal?id2=1998209869&id1=1985333902 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:54:15] "GET /semifinal?id2=2106882534&id1=2169387542 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:54:32] "GET /semifinal?id2=2106882534&id1=1999676908 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:54:36] "GET /semifinal?id2=2080932746&id1=2053379248 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:54:57] "GET /semifinal?id2=2153440608&id1=1968931043 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:55:02] "GET /semifinal?id2=2102085111&id1=2132551021 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:55:28] "GET /semifinal?id2=2097854437&id1=1899912277 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:55:33] "GET /semifinal?id2=2291201213&id1=2028959752 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:55:36] "GET /semifinal?id2=2123376285&id1=2157348764 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:55:37] "GET /semifinal?id2=69987893&id1=2039741363 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:56:11] "GET /semifinal?id2=2157823046&id1=2168326394 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:56:12] "GET /semifinal?id2=2157138196&id1=2157848968 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:56:14] "GET /semifinal?id2=2122517769&id1=2118826874 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:56:16] "GET /semifinal?id2=2162196924&id1=2110631042 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:56:17] "GET /semifinal?id2=2062290101&id1=2157348764 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:56:18] "GET /semifinal?id2=2117668619&id1=2102200338 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:56:19] "GET /semifinal?id2=2162838272&id1=2041946752 HTTP/1.1" 200 -
+t_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+2157823046 2157348764
+Id-Id
+CC>1000
+1
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+heart_beat
+2168326394 2244066162
+AuId-AuId
+1
+2002995168 2138155367
+Id-Id
+CC>1000
+1
+1977891194 2106882534
+AuId-Id
+1
+2232665276 2165010366
+AuId-Id
+1
+2058401000 2001725958
+Id-Id
+CC<1000
+1
+2162324627 706057080
+AuId-AuId
+1
+1904226804 2159296038
+AuId-Id
+1
+1998641738 2140501627
+Id-Id
+CC>1000
+1
+2014643663 2100254283
+Id-Id
+CC>1000
+1
+2054064167 2125785472
+Id-AuId
+1
+2243598352 2244066162
+AuId-AuId
+1
+2144804137 2146092834
+AuId-Id
+1
+2131203610 2158553737
+AuId-Id
+1
+2093714155 2036681013
+AuId-AuId
+1
+1877272218 2001725958
+AuId-Id
+1
+2097341408 1978784284
+Id-AuId
+1
+2157348764 2251992767
+Id-AuId
+1
+2054749214 2161633633
+Id-Id
+CC>1000
+1
+2166990755 1664523425
+AuId-AuId
+1
+1586699954 2067218961
+Id-AuId
+1
+2153440608 2109252993
+AuId-Id
+1
+1998209869 2015918699
+AuId-Id
+1
+2144804137 2054064167
+AuId-Id
+1
+2118826874 2106882534
+Id-Id
+CC>1000
+1
+2157138196 1977606739
+AuId-AuId
+1
+2132551021 2067218961
+Id-AuId
+1
+2080932746 2015918699
+AuId-Id
+1
+2001725958 2162010601
+Id-AuId
+1
+1992419399 2117692326
+Id-Id
+CC>1000
+1
+2168326394 2157823046
+AuId-Id
+1
+2146654601 2043103956
+AuId-Id
+1
+1912234910 2244066162
+AuId-AuId
+1
+2053379248 1943535906
+Id-AuId
+1
+2116146623 2012154384
+Id-Id
+CC>1000
+1
+2103017472 2144804137
+Id-AuId
+1
+2002995168 2170060062
+Id-AuId
+1
+2144634347 2058277658
+Id-AuId
+1
+2118826874 2015918699
+Id-Id
+CC>1000
+1
+2120627772 2067218961
+Id-AuId
+1
+2316376271 2157138196
+Id-AuId
+1
+1963999340 1664523425
+AuId-AuId
+1
+2251992767 1996452786
+AuId-AuId
+1
+2054064167 2109252993
+Id-Id
+CC<1000
+1
+1586699954 2166990755
+Id-AuId
+1
+2157823046 2023687307
+Id-Id
+CC>1000
+1
+2157138196 1937107987
+AuId-AuId
+1
+2159061031 2118826874
+Id-Id
+CC>1000
+1
+2012360991 2168326394
+AuId-AuId
+1
+2129871334 2116067072
+AuId-AuId
+1
+2008813448 2151911999
+AuId-AuId
+1
+2159881136 2157348764
+Id-Id
+CC>1000
+1
+2016511885 1573363574
+Id-Id
+CC>1000
+1
+2155496693 2071666535
+Id-Id
+CC>1000
+1
+2054064167 2251992767
+Id-AuId
+1
+2144634347 2166226934
+Id-AuId
+1
+1963999340 2149472920
+AuId-AuId
+1
+1996452786 2103017472
+AuId-Id
+1
+2157138196 2118826874
+AuId-Id
+1
+2109363337 679456835
+Id-AuId
+1
+1775749144 2120627772
+Id-Id
+CC>1000
+1
+2264929133 2109252993
+AuId-Id
+1
+2120627772 1995744610
+Id-Id
+CC>1000
+1
+1874266680 1943535906
+AuId-AuId
+1
+2161633633 1904226804
+Id-AuId
+1
+1985333902 1998209869
+AuId-AuId
+1
+2169387542 2106882534
+Id-Id
+CC>1000
+1
+1999676908 2106882534
+AuId-Id
+1
+2053379248 2080932746
+Id-AuId
+1
+1968931043 2153440608
+Id-AuId
+1
+2132551021 2102085111
+Id-Id
+CC>1000
+1
+1899912277 2097854437
+AuId-Id
+1
+2028959752 2291201213
+Id-AuId
+1
+2157348764 2123376285
+Id-Id
+CC<1000
+1
+2039741363 69987893
+AuId-AuId
+1
+2168326394 2157823046
+AuId-Id
+1
+2157848968 2157138196
+Id-AuId
+1
+2118826874 2122517769
+Id-Id
+CC>1000
+1
+2110631042 2162196924
+Id-Id
+CC>1000
+1
+2157348764 2062290101
+Id-Id
+CC>1000
+1
+2102200338 2117668619
+Id-AuId
+1
+2041946752 2162838272
+Id-Id
+CC<1000
+1
+2132322340 2161311583
+Id-Id
+CC>139.217.26.105 - - [15/May/2016 19:56:19] "GET /semifinal?id2=2161311583&id1=2132322340 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:56:20] "GET /semifinal?id2=317508920&id1=2026182357 HTTP/1.1" 200 -
+139.217.26.105 - - [15/May/2016 19:56:29] "GET /semifinal?id2=2148112990&id1=2263940760 HTTP/1.1" 200 -
+Exception in thread Thread-8521:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 763, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "semifinal.py", line 189, in get_entity_one
+    ans = get_ans(para,i)
+  File "semifinal.py", line 105, in get_ans
+    data = sock.recv(150)
+error: [Errno 104] Connection reset by peer
+
+Exception in thread Thread-8520:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 763, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "semifinal.py", line 189, in get_entity_one
+    ans = get_ans(para,i)
+  File "semifinal.py", line 105, in get_ans
+    data = sock.recv(150)
+error: [Errno 104] Connection reset by peer
+
