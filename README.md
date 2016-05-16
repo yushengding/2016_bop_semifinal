@@ -1,5 +1,6 @@
 # 2016_bop_semifinal
 2016 bop senifinal python code 
+队员：路遥，刘林青，丁宇笙(me)
 
 进了决赛了，最终排名还没有出来就把代码放出来
 复赛官方用例5组，不加缓存，成绩在49.975左右，一个用例的查询时间大概是120ms，每次查询academic api时间是70ms
