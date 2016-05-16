@@ -18,8 +18,9 @@
 3. @profile kernprof 可以查看每一行代码的运行时间，但不能看多线程中的部分。
 4. flask 作为服务器很方便，效率不明。
 
-## 最后一次提交时候的排名，49.99分的应该都是缓存的答案，在服务器请求的时候直接返回，49.80的我也很好奇他们怎么做到的。
-<img alt="rank" src="https://github.com/dyslove123/2016_bop_semifinal/blob/master/rank.png" width="70%" height="70%">
+## 最后一次提交时候的排名：yaoyao，第9
+49.99分的应该都是缓存的答案，在服务器请求的时候直接返回，49.80的我也很好奇他们怎么做到的。
+<img alt="rank" src="https://github.com/dyslove123/2016_bop_semifinal/blob/master/rank.png" width="100%" height="100%">
 
 ## 这是我们平时提交的成绩，可以看的出来，还是比较稳定的。
-<img alt="submission" src="https://github.com/dyslove123/2016_bop_semifinal/blob/master/submission.png" width="70%" height="70%">
+<img alt="submissions" src="https://github.com/dyslove123/2016_bop_semifinal/blob/master/submissions.png" width="100%" height="100%">
