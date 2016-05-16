@@ -19,3 +19,5 @@
 4. flask 作为服务器很方便，效率不明。
 
 
+<img alt="submission" src="https://github.com/dyslove123/2016_bop_semifinal/blob/master/rank.png" width="30%" height="30%">
+
