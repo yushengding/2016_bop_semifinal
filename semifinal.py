@@ -142,7 +142,7 @@ def heart_beat():
 			time.sleep(60/total_sock+1)
 
 
-threading.Thread(target=heart_beat).start()
+threading.Thread(target=heart_beat)#.start()
 
 
 import httplib
@@ -657,6 +657,8 @@ def cca():
 
 
 if __name__ =='__main__':
-	app.run(host='0.0.0.0',port=5000,debug=False)
 
+	#app.run(host='0.0.0.0',port=5000,debug=False)
 
+	ans = get_entity('And(Y>1,CC>170000)','Id')
+	print ans
