@@ -42,3 +42,6 @@ semifinal.py 是主要文件，包括api调用，服务器启动
 
 ## 这是我们平时提交的成绩，可以看的出来，还是比较稳定的。
 <img alt="submissions" src="https://github.com/dyslove123/2016_bop_semifinal/blob/master/submissions.png" width="100%" height="100%">
+
+## 最后的排行榜 rank 11 yaoyao，比我们想象的要差一些，但幸好进决赛了
+<img alt="final_board" src="https://github.com/dyslove123/2016_bop_semifinal/blob/master/final_board.png" width="100%" height="100%">
